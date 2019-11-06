@@ -69,4 +69,4 @@ fabric.properties
 
 
 ######
-web_parsing_tool/__pycache__/
+web_parsing_tool/__pycache__/.DS_Store
